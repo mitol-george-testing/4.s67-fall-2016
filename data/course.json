@@ -1,0 +1,39 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural History and Criticism"
+    ],
+    [
+      "Humanities",
+      "History"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0379eba2-caf0-947d-8399-8bbbe25caf8c",
+      "ad85971a-2e5c-fd3c-fa6d-81d4b63f5d79"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Landscape Experience: Seminar in Land/Art",
+  "course_description": "This seminar explores \u201cland\u201d as a genre, theme, and medium of art and architecture of the last five decades. Focusing largely on work within the boundaries of the United States, the course seeks to understand how the use of land in art and architecture is bound into complicated entanglements of property and power, the inheritances of non-U.S. traditions, and the violence of colonial ambitions. The term \u201clandscape\u201d is variously deployed in the service of a range of political and philosophical positions.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.S67",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
